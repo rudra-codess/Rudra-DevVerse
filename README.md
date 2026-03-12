@@ -21,7 +21,7 @@
 
 🚀 Click below to view the portfolio
 
-[![Live Portfolio](https://img.shields.io/badge/View%20Portfolio-Live%20Demo-blue?style=for-the-badge)](https://your-portfolio-link.com)
+[![Live Portfolio](https://img.shields.io/badge/View%20Portfolio-Live%20Demo-blue?style=for-the-badge)](https://rudra-codesss.netlify.app/)
 
 ---
 
@@ -71,11 +71,13 @@ The project showcases my skills, projects, and technical expertise using modern 
 
 ### Hero Section
 
-![Hero](https://via.placeholder.com/1000x500.png?text=Portfolio+Hero+Section)
+![Hero](<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/a5d2dd9f-1c55-4062-b1f4-4ae9cedabdc9" />
+)
 
-### Projects Section
+### Technical Ecosystem Section
 
-![Projects](https://via.placeholder.com/1000x500.png?text=Projects+Showcase)
+![Technical Ecosystem](<img width="1917" height="793" alt="image" src="https://github.com/user-attachments/assets/c1db764b-41a6-4c3e-b120-2e751b896326" />
+)
 
 ---
 
