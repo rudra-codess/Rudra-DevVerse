@@ -71,12 +71,12 @@ The project showcases my skills, projects, and technical expertise using modern 
 
 ### Hero Section
 
-![Hero](<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/a5d2dd9f-1c55-4062-b1f4-4ae9cedabdc9" />
+![Hero](image/hero section.png>
 )
 
 ### Technical Ecosystem Section
 
-![Technical Ecosystem](<img width="1917" height="793" alt="image" src="https://github.com/user-attachments/assets/c1db764b-41a6-4c3e-b120-2e751b896326" />
+![Technical Ecosystem](<image/technical ecosystem.png>
 )
 
 ---
