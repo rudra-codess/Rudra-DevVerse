@@ -1,67 +1,20 @@
-# 🤖 Rudra Pratap Developer Portfolio
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-A futuristic AI-themed developer portfolio built with modern web technologies and immersive 3D graphics.
+# Run and deploy your AI Studio app
 
-This portfolio showcases my projects, technical skills, and development experience through interactive animations, 3D elements, and modern UI design.
+This contains everything you need to run your app locally.
 
----
+View your app in AI Studio: https://ai.studio/apps/f4bc821c-06b9-45d0-bd3d-48d5249cb77a
 
-## 🚀 Tech Stack
+## Run Locally
 
-### Frontend
-- React
-- Vite
-- Tailwind CSS
-- TypeScript
+**Prerequisites:**  Node.js
 
-### 3D Graphics
-- Three.js
-- React Three Fiber
-- Drei
 
-### Animations
-- Framer Motion
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- SQLite (better-sqlite3)
-
-### AI Integration
-- Google Generative AI SDK
-
----
-
-## ✨ Features
-
-- Futuristic AI themed UI
-- Interactive 3D graphics
-- Smooth animations
-- Responsive design
-- Modern developer portfolio layout
-- Backend integration
-
----
-
-## 🛠 Installation
-
-Clone the repository
-
-https://github.com/rudra-codess/Rudra-Pratap-Developer-Portfolio.git
-
-Go to project folder
-
-Install dependencies
-
-Run development server
-
-Open in browser
-
----
-
-## 👨‍💻 Author
-
-Rudra Pratap  
-Developer | Web Enthusiast | Learning AI & Modern Web Technologies
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
